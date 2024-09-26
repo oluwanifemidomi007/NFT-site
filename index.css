@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+/* layout */
+
+footer,
+section,
+header {
+  padding: 45px 0;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #2b283a;
+  margin: 0;
+}
+
+header {
+  background-color: #5f29a3;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.purple-sneakers {
+  width: 100%;
+}
+
+.section-two {
+  color: whitesmoke;
+  background-color: #5f29a3;
+}
+
+.punk-pic,
+.punk-text {
+  width: 300px;
+  border-radius: 4.6px;
+}
+
+.section-two-image-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container {
+  width: 620px;
+}
+
+.nft-btn {
+  color: whitesmoke;
+  background-color: #5f29a3;
+  padding: 10px 19px;
+  border-radius: 4.6px;
+  font-weight: 500;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.more-btn {
+  color: #5f29a3;
+  background-color: #f0e0ff;
+  padding: 10px 19px;
+  border-radius: 4.6px;
+  font-weight: 500;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.about-btn {
+  background-color: whitesmoke;
+  color: #5f29a3;
+  padding: 10px 19px;
+  border-radius: 4.6px;
+  font-weight: 500;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.contact-btn {
+  background-color: #f0e0ff;
+  color: #2b283a;
+  padding: 10px 19px;
+  border-radius: 4.6px;
+  font-weight: 500;
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* typography */
+
+h1 {
+  font-size: 36px;
+  color: whitesmoke;
+  margin: 0;
+}
+
+h3 {
+  font-size: 20px;
+  color: #d0aaff;
+  margin: 0;
+}
+
+.punk-text {
+  font-family: "Roboto", sans-serif;
+}
+
+footer {
+  font-size: 16px;
+  color: #5f29a3;
+  text-align: center;
+}
+
+p {
+  line-height: 23px;
+}
+
+/* links */
+
+a {
+  color: #ef5839;
+}
+
+a:hover {
+  background-color: #f3e885;
+  color: #2b283a;
+}
+
+a:active {
+  color: #2b283a;
+}
